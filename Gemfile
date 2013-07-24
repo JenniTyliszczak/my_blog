@@ -9,6 +9,8 @@ gem 'pg'
 
 gem 'table_cloth' , "~> 0.4.0"
 
+gem 'rails_12factor', group: :production
+
 gem 'twitter-bootstrap-rails'
 
 gem "carrierwave"
